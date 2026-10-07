@@ -25,5 +25,5 @@
 </div>
 
 <a href="https://open.spotify.com/user/fx5z6rxg0ellssbln7yaih0mj">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=fx5z6rxg0ellssbln7yaih0mj&amp;theme=transparent&amp;width=570&amp;radius=21&amp;username=off" alt="Spotify recently played" width="570" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=fx5z6rxg0ellssbln7yaih0mj&amp;theme=transparent&amp;width=1000&amp;radius=21&amp;username=off" alt="Spotify recently played" width="1000" />
 </a>
