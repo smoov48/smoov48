@@ -36,4 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+<a href="https://open.spotify.com/user/fx5z6rxg0ellssbln7yaih0mj">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=fx5z6rxg0ellssbln7yaih0mj&amp;theme=transparent&amp;footer=wave" alt="Spotify recently played" width="400" />
+</a>
 ###
