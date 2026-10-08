@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Dear Diary... a new has started Beginning.</h1>
+<h1 data-importer="text" align="center">Dear Diary... a new beginning has started.</h1>
 
 ###
 
